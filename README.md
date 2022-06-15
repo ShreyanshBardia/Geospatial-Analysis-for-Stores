@@ -7,4 +7,4 @@ This is the reason for a quick service restaurant to be profitable, it has to be
 To decide the location of a new store geo spatial analysis can be one of the first steps look out for a potential location. Established brands can look for potential location to increase their hold over the market, similarly a new startup can look out for a new place which might not have been tried out by its competitors yet.
 Geo -spatial analysis can also be used to close stores(merge) of same company which are in near proximity to each other.
 
-In this project I have chosen Mumbai as the city to do the analysis. I have taken 3 brands into account Starbucks, McDonalds and Dominos. I began with looking for dataset of addresses of the stores but since there was no open source dataset available I scraped dataset myself from their respective website.
+In this project I have chosen Mumbai as the city to do the analysis. I have taken 3 brands into account Starbucks, McDonalds and Dominos. I began with looking for dataset of addresses of the stores but since there was no open source dataset available I scraped data myself from their respective website.

@@ -8,3 +8,5 @@ To decide the location of a new store geo spatial analysis can be one of the fir
 Geo -spatial analysis can also be used to close stores(merge) of same company which are in near proximity to each other.
 
 In this project I have chosen Mumbai as the city to do the analysis. I have taken 3 brands into account Starbucks, McDonalds and Dominos. I began with looking for dataset of addresses of the stores but since there was no open source dataset available I scraped data myself from their respective website.
+
+This can be easily replicated for other cities and stores as well
